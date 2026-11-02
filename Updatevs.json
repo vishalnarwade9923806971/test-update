@@ -1,9 +1,10 @@
 {
-  "appName": "VSpoqee",
-  "appIcon": "https://bit.ly/icon_Remini",
+  "appName": "VS_Moder",
+  "appIcon": "https://bit.ly/icon_CapCut",
   "versionName": "4.0.0",
   "forceUpdate": true,
-  "description": "Official Release v4.0 is out!\nNew UI elements and themes.\nEnhanced performance and stability.",
+  "description": "Official Release v4.0 is out!\nNew UI elements and themes.\nEnhanced performance and stability.\nNew premium features added.\nBug fixes and improvements.",
   "buttonText": "DOWNLOAD",
-  "buttonUrl": "https://t.me/VS_Moder"
+  "buttonUrl": "https://t.me/VS_Moder",
+  "brandText": "VS_Moder 🇮🇳"
 }
